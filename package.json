@@ -14,6 +14,7 @@
   "dependencies": {
     "bootstrap": "^3.3.4",
     "component-turris-example": "^0.1.0",
+    "postal": "^1.0.6",
     "react": "^0.13.2",
     "react-router": "^0.13.3"
   },
