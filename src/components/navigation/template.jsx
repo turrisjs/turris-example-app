@@ -13,7 +13,7 @@ const render = function() {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <ReactRouter.Link to="home" className="navbar-brand">Example</ReactRouter.Link>
+                    <ReactRouter.Link to="home" className="navbar-brand">exampleApp</ReactRouter.Link>
                 </div>
 
                 <div className="collapse navbar-collapse">

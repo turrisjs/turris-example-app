@@ -1,5 +1,5 @@
-# Awesome Example application
+# Awesome exampleApp application
 
-Example application scaffolded with Turris.js
+No description yet
 
 Made with [Turris.js](https://github.com/turrisjs)
