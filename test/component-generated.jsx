@@ -11,13 +11,13 @@ const {TestUtils} = React.addons;
 import Component from '../src/components/generated/index.js';
 
 test('Generated component suite', function(it) {
-    it.test('Should render', function(t) {
+    it.test('# should render', function(t) {
         // render
         const comp = TestUtils.renderIntoDocument(<Component />);
 
         // check if link and name are correct
         const divs = TestUtils.scryRenderedDOMComponentsWithTag(comp, 'div');
-        t.equal(divs.length, 1);
+        t.equal(1, divs.length);
         t.end();
     });
 });
