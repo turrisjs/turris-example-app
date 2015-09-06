@@ -20,6 +20,7 @@ const render = function() {
                     <ul className="nav navbar-nav">
                         <li><ReactRouter.Link to="home">Home</ReactRouter.Link></li>
                         <li><ReactRouter.Link to="other">Other</ReactRouter.Link></li>
+                        <li><ReactRouter.Link to="test">Test</ReactRouter.Link></li>
                     </ul>
                 </div>
             </div>
